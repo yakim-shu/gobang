@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gobang/static/css/main.92036a1e.chunk.css",
+    "main.js": "/gobang/static/js/main.d579c925.chunk.js",
+    "main.js.map": "/gobang/static/js/main.d579c925.chunk.js.map",
+    "runtime~main.js": "/gobang/static/js/runtime~main.89a96a38.js",
+    "runtime~main.js.map": "/gobang/static/js/runtime~main.89a96a38.js.map",
+    "static/css/2.266e55a5.chunk.css": "/gobang/static/css/2.266e55a5.chunk.css",
+    "static/js/2.0c92a4e7.chunk.js": "/gobang/static/js/2.0c92a4e7.chunk.js",
+    "static/js/2.0c92a4e7.chunk.js.map": "/gobang/static/js/2.0c92a4e7.chunk.js.map",
+    "index.html": "/gobang/index.html",
+    "precache-manifest.94a8adcd4279980df030bf5faa4d1731.js": "/gobang/precache-manifest.94a8adcd4279980df030bf5faa4d1731.js",
+    "service-worker.js": "/gobang/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/gobang/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.92036a1e.chunk.css.map": "/gobang/static/css/main.92036a1e.chunk.css.map",
+    "static/media/index.scss": "/gobang/static/media/pacman.d3927dc7.png"
+  }
+}
